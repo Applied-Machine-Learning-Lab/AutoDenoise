@@ -1,6 +1,6 @@
 # AutoDenoise: Automatic Data Instance Denoising for Recommendations
 
-Source code of [AutoDenoise: Automatic Data Instance Denoising for Recommendations]().
+Source code of [AutoDenoise: Automatic Data Instance Denoising for Recommendations](https://doi.org/10.1145/3543507.3583339).
 
 ![](/AutoDenoise.jpg)
 
